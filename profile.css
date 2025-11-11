@@ -1,0 +1,69 @@
+.profile-container {
+  max-width: 800px;
+  margin: 50px auto;
+  background-color: #fdfdfd;
+  padding: 30px 40px;
+  border-radius: 15px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+  font-family: 'Segoe UI', sans-serif;
+  color: #333;
+  line-height: 1.7;
+}
+
+.profile-title {
+  text-align: center;
+  color: #1e3a8a;
+  font-size: 2.2rem;
+  margin-bottom: 15px;
+}
+
+.profile-intro {
+  text-align: center;
+  font-size: 1.1rem;
+  color: #444;
+  margin-bottom: 25px;
+}
+
+section {
+  margin-top: 25px;
+}
+
+h2 {
+  color: #2563eb;
+  margin-bottom: 10px;
+  border-left: 4px solid #2563eb;
+  padding-left: 8px;
+  font-size: 1.4rem;
+}
+
+h3 {
+  color: #111;
+  margin-bottom: 5px;
+}
+
+ul {
+  list-style-type: disc;
+  margin-left: 25px;
+}
+
+li {
+  margin: 6px 0;
+}
+
+.experience {
+  margin-bottom: 20px;
+  background: #f3f4f6;
+  padding: 15px;
+  border-radius: 10px;
+}
+
+hr {
+  border: none;
+  height: 1px;
+  background-color: #ccc;
+  margin: 25px 0;
+}
+
+b {
+  color: #111827;
+}

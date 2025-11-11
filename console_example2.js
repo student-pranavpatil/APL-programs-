@@ -1,0 +1,1 @@
+console.error(new Error,"Hell!, this is wrong method. ");
